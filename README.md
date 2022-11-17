@@ -3,6 +3,7 @@ This is a  Simple Calculator program collaboration work by ALX students namely
 2. Nkosikhona Mhlope
 3. Chiagoziem Elgibbor
 4. Linda Chinonye Ikedigwe
+5. Sbonele Miya
 
 The following stipulates the features program:
 
