@@ -8,6 +8,7 @@ This project is for developing a simple calculator, that runs on the terminal. T
     *	mul.c -  multplies two numbers together
     *	div.c - divides two numbers
     *   info-display.c - displays startup information about calculator
-    *   libcalc.a - library for all .c files used (and subsequently their object files)
+4. libcalc.a - library for all helper function C files used (and subsequently their object files)
+5. csc.exe - the **Chris' Simple Calculator** itself :tada: :boom:
 
-**NOTE!** _Code is bad for your health. :coffee: :computer:_ 
+**NOTE!** _Code is bad for your health. :coffee: :man_technologist: :woman_technologist: 
