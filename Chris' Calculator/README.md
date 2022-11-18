@@ -8,6 +8,6 @@ This project is for developing a simple calculator, that runs on the terminal. T
     *	mul.c -  multplies two numbers together
     *	div.c - divides two numbers
     *   info-display.c - displays startup information about calculator
-    *   mylib.a - library for all .c files used (and subsequently their object files)
+    *   libcalc.a - library for all .c files used (and subsequently their object files)
 
 **NOTE!** _Code is bad for your health. :coffee: :computer:_ 
