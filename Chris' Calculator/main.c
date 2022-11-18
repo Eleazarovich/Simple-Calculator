@@ -28,5 +28,7 @@ int main(void)
 
 	printf("\n\tThe answer is, %i\n", result);
 
+	pause_program();
+
 	return (0);
 }
