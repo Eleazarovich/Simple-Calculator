@@ -9,4 +9,5 @@ This project is for developing a simple calculator, that runs on the terminal. T
     *	div.c - divides two numbers
     *   info-display.c - displays startup information about calculator
     *   mylib.a - library for all files used
- _*NOTE!* there's still plenty of room for improvement_
+
+*NOTE!* _there's still plenty of room for improvement_
