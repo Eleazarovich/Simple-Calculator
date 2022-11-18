@@ -9,7 +9,7 @@
 
 int main(void)
 {
-	int (*helper_func[4])(int, int) = NULL;
+	int (*helper_func[4])(int, int);
 	int op, num1, num2;
 	int result = 0;
 
@@ -26,6 +26,7 @@ int main(void)
 
 	result = helper_func[op](num1, num2);
 
-	printf("\n\tThe answer is, %i", result);
+	printf("\n\tThe answer is, %i\n", result);
 
 	return (0);
+}
