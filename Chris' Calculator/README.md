@@ -1,4 +1,4 @@
-## Project readme
+## Chris' Simple Calculator
 This project is for developing a simple calculator, that runs on the terminal. The files used here are  listed below.
 1. main.c - the main program where execution begins
 2. main.h - the header file of all function protocols used here
