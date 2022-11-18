@@ -1,5 +1,5 @@
 ## Chris' Simple Calculator
-Thi is a project for developing a simple calculator, that runs on the terminal. Project constituents are as follows.
+This is a project for developing a simple calculator, that runs on the terminal. Project constituents are as follows.
 1. main.c - the main C file where program execution begins (and ends :wink:)
 2. main.h - the header file of all function protocols used here
 3. C user-defined helper functions
