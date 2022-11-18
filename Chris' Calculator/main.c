@@ -19,14 +19,18 @@ int main(void)
 	helper_func[3] = divide;
 
 	display_welcome_info();
-	printf("\tOPERATOR CHOICE: ");
+	printf("OPERATOR CHOICE: ");
 	scanf("%i", &op);
-	printf("\tOPERAND(s): ");
+	printf("OPERAND(s): ");
 	scanf("%i %i", &num1, &num2);
 
 	result = helper_func[op](num1, num2);
 
-	printf("\n\tThe answer is, %i\n", result);
+	printf("\nThe answer is, %i\n", result);
+
+	pause_program(); 
+
+	printf("\n*********THE END***********");
 
 	pause_program();
 
