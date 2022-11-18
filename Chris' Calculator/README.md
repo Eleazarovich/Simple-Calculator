@@ -7,3 +7,4 @@ This project is for developing a simple calculator, that runs on the terminal. T
     *	subtract.c - subtracts two numbers
     *	mul.c -  multplies two numbers together
     *	div.c - divides two numbers
+    *   info-display.c - displays startup information about calculator
